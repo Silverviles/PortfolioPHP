@@ -653,8 +653,8 @@ input[type="submit"]:hover {
 
 .g-plus-icon {
 	padding: 10px 15px;
-	border: 1px solid #DD4C39;
-	background-color: #DD4C39;
+	border: 1px solid #333;
+	background-color: #333;
 }
 
 .g-plus-icon:hover {
