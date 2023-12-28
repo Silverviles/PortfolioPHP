@@ -11,12 +11,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!-- stylesheet -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/owl.carousel.css">
-		<link rel="stylesheet" href="css/owl.theme.min.css">
-        <link rel="stylesheet" href="css/animate.css">
-		<link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/font-awesome.min.css">
+        <link rel="stylesheet" href="../css/owl.carousel.css">
+		<link rel="stylesheet" href="../css/owl.theme.min.css">
+        <link rel="stylesheet" href="../css/animate.css">
+		<link rel="stylesheet" href="../css/main.css">
 
 		<!-- google font -->
         <link href='http://fonts.googleapis.com/css?family=Oswald:300,400' rel='stylesheet'>
@@ -82,7 +82,7 @@
             <div class="isotope portfolio-items">
                 <div class="element-item grid">
                     <div class="effect-zoe">
-                        <img class="img-responsive" alt="Portfolio" src="img/work1.jpg">
+                        <img class="img-responsive" alt="Portfolio" src="../img/work1.jpg">
                         <figcaption>
                             <h2 class="hidden-xs">Creative <span>Joe</span></h2>
                             <p class="icon-links">
@@ -95,7 +95,7 @@
                 </div>
                 <div class="element-item grid">
                     <div class="portfolio-item effect-zoe">
-                        <img class="img-responsive" alt="Portfolio" src="img/work2.jpg">
+                        <img class="img-responsive" alt="Portfolio" src="../img/work2.jpg">
                         <figcaption>
                             <h2 class="hidden-xs">Creative <span>Joe</span></h2>
                             <p class="icon-links">
@@ -108,7 +108,7 @@
                 </div>
                 <div class="element-item grid">
                     <div class="portfolio-item effect-zoe">
-                        <img class="img-responsive" alt="Portfolio" src="img/work3.png">
+                        <img class="img-responsive" alt="Portfolio" src="../img/work3.png">
                         <figcaption>
                             <h2 class="hidden-xs">Creative <span>Joe</span></h2>
                             <p class="icon-links">
@@ -121,7 +121,7 @@
                 </div>
                 <div class="element-item grid">
                     <div class="portfolio-item effect-zoe">
-                        <img class="img-responsive" alt="Portfolio" src="img/work7.jpg">
+                        <img class="img-responsive" alt="Portfolio" src="../img/work7.jpg">
                         <figcaption>
                             <h2 class="hidden-xs">Creative <span>Joe</span></h2>
                             <p class="icon-links">
