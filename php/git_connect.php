@@ -1,6 +1,5 @@
 <?php
 
-include_once 'config.php';
 include_once 'secret.php';
 
 $apiUrl = 'https://api.github.com';
@@ -31,9 +30,8 @@ curl_close($ch);
 
 $data = json_decode($response, true);
 
-echo 'GitHub User Details:<br>';
-echo 'Username: ' . $data['login'] . '<br>';
-echo 'Name: ' . $data['name'] . '<br>';
-echo 'Location: ' . $data['location'] . '<br>';
+foreach($data as $key => $value){
+    echo $key.": ".$value."<br>";
+}
 
 ?>

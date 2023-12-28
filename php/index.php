@@ -1,5 +1,6 @@
 <?php
-    include 'config.php';
+    //include 'config.php';
+    include_once 'git_connect.php';
 ?>
 <!DOCTYPE html>
 <html lang="en-us">
